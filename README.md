@@ -1,5 +1,5 @@
 ## Project Name
-CLOUDOne Monitoring
+CLOUDOne Monitoring ☁️
 
 ## Description
 Investigate Open API data sets to monitor AWS & Azure clouds, integrate those APIs with myWizard AiOps Service Integrator to pull the information and send to Splunk, create a dashboard to visualize the monitoring parameters for the businesses.
